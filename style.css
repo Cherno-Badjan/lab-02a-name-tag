@@ -1,0 +1,41 @@
+html {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+ .box { 
+    width: 300px;
+    border: 15px solid green;
+    padding: 20px;
+    margin: 20px;
+    background-color: red;
+    color: white; 
+    border-radius: 25px;;
+    height: 150px;
+    
+}
+
+
+.name{
+    background-color: white;
+    color: black;
+    font-family: cursive;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+h2{ 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
